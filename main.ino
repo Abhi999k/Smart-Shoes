@@ -4,7 +4,7 @@
 #define BLYNK_TEMPLATE_NAME "Quickstart Template"
 #define BLYNK_AUTH_TOKEN "demo"
 
-#define BLYNK_PRINT Serial  // Debugging Blynk
+#define BLYNK_PRINT Serial
 
 // ✅ **Include Required Libraries**
 #include <Wire.h>
