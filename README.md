@@ -122,7 +122,7 @@ Step Count: 3
 <br>
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abhi999k.Smart_shoes)](https://github.com/Abhi999k/Smart_shoes)
 <img src="https://sloc.xyz/github/Abhi999k/Smart_shoes"/>
-[![Code Size](https://img.shields.io/github/languages/code-size/Abhi999k/Smart_shoes)]
+[![Code Size](https://img.shields.io/github/languages/code-size/Abhi999k/Smart_shoes)](https://github.com/Abhi999k/Smart_shoes)
 <img src="https://img.shields.io/github/contributors/Abhi999k/Smart_shoes?color=2b9348" >
 <br>
 <img src="https://img.shields.io/github/stars/Abhi999k/Smart_shoes"/>
