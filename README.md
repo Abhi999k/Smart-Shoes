@@ -1,3 +1,5 @@
+<img width="100%" src="assets/demo.png" alt="demo">
+
 # **Smart Shoe with GPS, MPU6050, and Vibration Motor**  
 
 This project integrates an **MPU6050 Accelerometer & Gyroscope**, a **GPS module**, and a **vibration motor** into a smart shoe system. The **ESP32** connects to WiFi to fetch precise location details using the **OpenStreetMap API** and detects walking patterns, running, standing still, and abnormal walking behavior.  
